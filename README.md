@@ -1,3 +1,15 @@
+<h2 style="text-align: center; font-weight: 700">Abu Taher Muhammad</h2>
+<p style="text-align: center">Full-stack Web Developer</p>
+<p style="text-align: center">
+    <a href="#">Linked in</a>
+    <a href="#">Instagram</a>
+    <a href="#">Facebook</a>
+</p>
+<hr/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rootover3&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 - 👋 Hi, I’m @AbuTaherMuhammad.
 - 👀 I’m interested in a lot of things along side 🤖 📖 💻.
 - 🌱 I’m currently learning & working as a junior wev developer. Learning journey never end in one's life. Specially when its come to a junior's life! there is no end.
