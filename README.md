@@ -19,3 +19,7 @@ You can click the Preview link to take a look at your changes.
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=rootover3&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 </p>
+
+<div>
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=rootOver3.AbuTaherMuhammad&left_color=green&right_color=red)
+</div>
