@@ -30,10 +30,10 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/abutahermuhammad/github-readme-stats -->
 📈 my github stats
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=rootover3&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+    <img src="https://github-readme-stats.vercel.app/api?username=abutahermuhammad&show_icons=true&theme=gotham" alt="abutahermuhammad" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rootOver3.AbuTaherMuhammad&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abutahermuhammad.AbuTaherMuhammad&left_color=green&right_color=red)
