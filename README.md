@@ -33,4 +33,4 @@ No activity tracked
     <img src="https://github-readme-stats.vercel.app/api?username=abutahermuhammad&show_icons=true&theme=gotham" alt="abutahermuhammad" />
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=abutahermuhammad.AbuTaherMuhammad&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=abutahermuhammad.abutahermuhammad&left_color=green&right_color=red)
