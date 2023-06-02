@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 -->
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 25 May 2023 - To: 01 June 2023
 
 No activity tracked
