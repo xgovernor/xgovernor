@@ -21,6 +21,13 @@ AbuTaherMuhammad/AbuTaherMuhammad is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 -->
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 August 2023 - To: 04 September 2023
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <!-- https://github.com/abutahermuhammad/github-readme-stats -->
