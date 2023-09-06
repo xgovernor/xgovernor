@@ -23,11 +23,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-PHP     17 mins         ████████████████████▓░░░░   83.31 %
-Ezhil   2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-HTML    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
+PHP     6 hrs 53 mins   ████████████████████████▒   96.75 %
+HTML    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+Ezhil   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
