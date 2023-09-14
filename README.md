@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2023 - To: 13 September 2023
+From: 07 September 2023 - To: 14 September 2023
 
-PHP          4 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.97 %
-JavaScript   2 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.66 %
-CSS          33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
-Bash         25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-HTML         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+JavaScript   3 hrs 35 mins   ████████████████▓░░░░░░░░   66.96 %
+CSS          33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
+Bash         25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+PHP          24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+HTML         21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->
