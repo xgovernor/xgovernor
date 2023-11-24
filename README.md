@@ -23,13 +23,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-YAML         40 mins         ████████████▓░░░░░░░░░░░░   50.21 %
-TypeScript   19 mins         ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-JSON         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Git          4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 %
+YAML         40 mins         ████████████████▒░░░░░░░░   65.48 %
+TypeScript   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
+Git          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Git Config   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
