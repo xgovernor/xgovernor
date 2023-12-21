@@ -40,7 +40,7 @@
 <div style="background-color:#efefef !important; padding: 40px; border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; color: black !important; padding-top: 40px">
 <div align="center">
 
-[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abutahermuhammad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)
+<img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=abutahermuhammad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" height="180em" alt="Abu Taher Muhammad" />
 
 </div>
 
