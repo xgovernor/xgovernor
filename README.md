@@ -42,12 +42,6 @@
 
 <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=abutahermuhammad&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000" height="180em" alt="Abu Taher Muhammad" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
   <img align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=abutahermuhammad&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&hide_border=true&border_radius=8&order=3" height="180em" alt="Abu Taher Muhammad" />
 
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abutahermuhammad&theme=gotham&hide_border=true&border_radius=8&order=3" height="180em" />
