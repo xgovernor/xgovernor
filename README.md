@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Abu Taher Muhammad</h1>
-<h4 align="center">Full-stack Web Instructor | IT Enthusiast</h4>
+<h4 align="center">Full-stack Web Developer | IT Enthusiast</h4>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abutahermuhammad/" target="_blank">
