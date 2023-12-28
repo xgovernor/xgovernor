@@ -60,13 +60,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2023 - To: 27 December 2023
+From: 21 December 2023 - To: 28 December 2023
 
-TypeScript   3 hrs 49 mins   ████████▓░░░░░░░░░░░░░░░░   34.10 %
-SCSS         2 hrs 54 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Markdown     1 hr 52 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-HTML         1 hr 29 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
-JSON         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+TypeScript   3 hrs 49 mins   ███████████████▒░░░░░░░░░   61.16 %
+SCSS         1 hr 17 mins    █████░░░░░░░░░░░░░░░░░░░░   20.59 %
+HTML         36 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+Other        17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+JSON         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
