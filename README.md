@@ -69,11 +69,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-TypeScript   2 hrs 35 mins   ████████████████████████▒   96.73 %
-Other        5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
