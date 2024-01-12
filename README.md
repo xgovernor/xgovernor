@@ -69,13 +69,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
-Docker       1 hr 48 mins    █████████████▓░░░░░░░░░░░   54.81 %
-TypeScript   44 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
-JavaScript   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.56 %
-Bash         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-JSON         11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JavaScript   18 mins         █████████████▓░░░░░░░░░░░   54.49 %
+Bash         13 mins         ██████████░░░░░░░░░░░░░░░   39.37 %
+JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
