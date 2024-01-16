@@ -69,12 +69,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 January 2024 - To: 15 January 2024
+From: 09 January 2024 - To: 16 January 2024
 
-Markdown     11 mins         ████████████████▒░░░░░░░░   65.94 %
-JavaScript   3 mins          ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-JSON         1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+JSON         27 mins         ████████████▒░░░░░░░░░░░░   49.64 %
+Markdown     11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.59 %
+JavaScript   7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 %
+TypeScript   6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
+Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
