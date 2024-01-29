@@ -69,13 +69,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 January 2024 - To: 28 January 2024
+From: 22 January 2024 - To: 29 January 2024
 
-CSS          3 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-TypeScript   3 hrs 31 mins   ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-HTML         2 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-JavaScript   1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-YAML         55 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+SCSS         8 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   33.64 %
+CSS          3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+HTML         3 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.92 %
+TypeScript   3 hrs 31 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
+JavaScript   2 hrs 46 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
 ```
 
 <!--END_SECTION:waka-->
