@@ -69,13 +69,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 08 February 2024
+From: 02 February 2024 - To: 09 February 2024
 
-YAML         1 hr 28 mins    ████████▓░░░░░░░░░░░░░░░░   34.38 %
-JavaScript   1 hr 6 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-TypeScript   57 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
-Prisma       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+YAML         1 hr 28 mins    █████████▒░░░░░░░░░░░░░░░   37.90 %
+JavaScript   1 hr 6 mins     ███████░░░░░░░░░░░░░░░░░░   28.57 %
+TypeScript   33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Prisma       17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+JSON         17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
