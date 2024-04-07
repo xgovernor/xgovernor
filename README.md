@@ -69,12 +69,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 March 2024 - To: 06 April 2024
+From: 31 March 2024 - To: 07 April 2024
 
-TypeScript   1 hr 2 mins     ███████████████████░░░░░░   75.42 %
-JavaScript   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.50 %
-Pug          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-EJS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+JavaScript   5 mins          █████████████░░░░░░░░░░░░   51.62 %
+TypeScript   4 mins          ████████████░░░░░░░░░░░░░   48.38 %
 ```
 
 <!--END_SECTION:waka-->
