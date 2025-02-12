@@ -27,7 +27,7 @@
 ###
 
 - 👋 Hi, I’m **@AbuTaherMuhammad**.
-- 🔭 I’m working as a **Full-stack engineer at Dot9**
+- 🔭 I’m working as a **Full Stack engineer at Dot9**
 - 🚀  I'm currently working on [GitCustomizer](https://git-customizer.vercel.app/)
 - 🌱 I’m currently learning **DSA, PostgreSQL, SDLC & Rust**
 - 📖 I love regularly reading on [dev.to](https://dev.to), [medium.com](https://medium.to), [substack.com/](https://substack.com)
